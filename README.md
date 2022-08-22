@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Betsabeh
 - 👀 I’m interested in Machine learning, Deep learning, compuational Biology, AI
 - 🌱 I like learning new techniques 
-- 💞️ I'm looking for postdoc position in machine learning
+- 💞️ 
 - 📫 How to reach me  betsatanoori@gmail.com
 
 <!---
