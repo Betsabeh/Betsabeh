@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Betsabeh
-- 👀 I’m interested in Machine learning, Deep learning, compuational Biology,and AI
+- 👀 I’m interested in Machine Learning, Deep Learning, Computational Biology, Image Processing, and AI
 - 🌱 I like learning new techniques 
 - 💞️ 
 - 📫 How to reach me  betsatanoori@gmail.com
